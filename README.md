@@ -20,5 +20,4 @@
 And many more!
 
 ## My social media
-<a href="https://www.reddit.com/user/shadow_ll/" target="_blank"></a>
-
+![Reddit](https://img.shields.io/badge/reddit-%255255240.svg?style=for-the-badge&logo=reddit&logoColor=%2558601)

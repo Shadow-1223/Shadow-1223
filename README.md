@@ -20,4 +20,17 @@
 And many more!
 
 ## My social media
-![Reddit](https://img.shields.io/badge/reddit-%255255240.svg?style=for-the-badge&logo=reddit&logoColor=%2558601)
+<a href="https://www.reddit.com/user/shadow_ll/" target="_blank">
+    <img alt="shadow_ll" src="https://img.shields.io/badge/My reddit Profile-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"></img>
+</a>
+<a href="https://twitter.com/migzchi" target="_blank">
+    <img alt="@migzchi" src="https://img.shields.io/badge/Follow me on twitter-%23FFFFFF.svg?style=for-the-badge&logo=twitter&logoColor=blue"></img>
+</a> 
+<img alt="migzchi" src="https://img.shields.io/badge/My discord Profile-%2323272A.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
+<a href="https://www.instagram.com/shadow_lllllll/" target="_blank">
+    <img alt="@migzchi" src="https://img.shields.io/badge/Follow me on instagram-%238a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white"></img>
+</a>
+
+## Stats
+<!---[shadow_1223's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow_1223&theme=codeSTACKr&show_icons=true)---!>
+

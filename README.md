@@ -1,4 +1,7 @@
 <h1 align="center">Welcome to my Profile!</h1>
+![Contribution](https://github.com/EvolutionX-10/EvolutionX-10/blob/output/github-contribution-grid-snake.svg) <br>
+Enjoy watching the snake eat my contributions
+
 
 ## Introduction
 
@@ -6,6 +9,13 @@
 > - I'm Interested being game developer and full stack developer
 > - I'm currently learning how to code
 > - I'm also looking to collaborate on with other
+
+## IDE/Editor I Use.
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## Languages I like to learn!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,6 +41,6 @@ And many more!
     <img alt="@migzchi" src="https://img.shields.io/badge/Follow me on instagram-%238a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white"></img>
 </a>
 
-## Stats
+## My Stats
 ![shadow_1223's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow-1223&theme=codeSTACKr&show_icons=true)
 
